@@ -58,6 +58,12 @@ Maybe include a little about these, especially if they are the kinds of things t
 
 _**[Poker](poker)**_
 
+_**[Making Coffee](poker)**_
+
+_**[Making Bagels](poker)**_
+
+_**[gaggiuino]((https://gaggiuino.github.io/#/?id=home))**_
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
