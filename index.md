@@ -56,7 +56,7 @@ Sell yourself!
 
 Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
 
-_**[Eventual team project](https://chackett24.github.io/poker/)**_
+_**[Poker](https://chackett24.github.io/poker/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
