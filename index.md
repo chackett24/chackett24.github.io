@@ -56,7 +56,7 @@ Sell yourself!
 
 Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
 
-_**[Poker](poker.md)**_
+_**[Poker](poker)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
