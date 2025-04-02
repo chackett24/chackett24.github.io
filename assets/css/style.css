@@ -1,20 +1,20 @@
----
----
-
 @import "{{ site.theme }}";
 
 @media print, screen and (min-width: 1200px) {
   .wrapper {
-    width:1200px;
-    // left side is 270
-    // 1200-270 = 930
-    // 30px free room
-    margin:0 auto;
+    width: 1200px;
+    margin: 0 auto;
+    background-image: url("images/background.jpg?raw=true"); /* Add your background image */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent repetition of the image */
   }
 
   section {
-    width:900px;
-    float:right;
-    padding-bottom:50px;
+    width: 900px;
+    float: right;
+    padding-bottom: 50px;
+    background-color: rgba(255, 255, 255, 0.8); /* Optional: translucent white background for better readability */
   }
 }
+
