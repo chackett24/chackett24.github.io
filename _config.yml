@@ -11,3 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.GitHub.com/chackett24/">GitHub</a>  
   
 theme: jekyll-theme-minimal
+
+# Custom CSS files
+default_css: "/assets/css/style.css"
+wide_css: "/assets/css/wide_style.scss"
+
