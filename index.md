@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+Hey, I’m Casey Hackett—a problem solver with a passion for finance, technology, and automation. Currently, I’m a student at Lehigh, diving deep into quantitative methods, systematic trading, and large-scale data analysis.
 
 <!-- Upload your own photo and change the path -->
 
@@ -15,6 +13,13 @@ I am an awesome student at Lehigh, you should hire me!
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+
+_**[Volos Options Backtesting](volos)**_
+
+
+<img src="images/volos.jpg?raw=true"/>
+
+---
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
