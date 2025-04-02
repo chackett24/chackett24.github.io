@@ -4,7 +4,7 @@
   .wrapper {
     width: 1200px;
     margin: 0 auto;
-    background-image: url("images/background.jpg?raw=true"); /* Add your background image */
+    background-image: url("images/background.jpeg?raw=true"); /* Add your background image */
     background-size: cover; /* Cover the entire background */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent repetition of the image */
