@@ -21,6 +21,13 @@ _**[Volos Options Backtesting](volos)**_
 
 ---
 
+_**[MIT Quantum Computing Optimization](quantum)**_
+
+
+<img src="images/quantum.jpg?raw=true"/>
+
+---
+
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
@@ -51,9 +58,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am passionate about automation, trading, and quantitative analysis, constantly seeking ways to apply my problem solving skills to complex financial challenges. My goal is to find a career that allows me to build systematic solutions, optimize decision-making, and leverage technology to drive efficiency and insight.
 
 ---
 
