@@ -3,7 +3,7 @@ layout: default
 title: Volos Portfolio Solutions
 ---
 
-#Volos Options Backtesting
+# Volos Options Backtesting
 
 I currently work with Volos Portfolio Solutions, a fintech company that helps investors build and evaluate systematic options strategies. My role involves designing and analyzing rule-based strategies using the Volos Strategy Engine, often focused on multi-leg ETF options structures like covered calls, put spreads, and volatility-based trades.
 
