@@ -15,4 +15,6 @@ It reminds me a lot of what I enjoy in quant work: developing a +EV strategy, an
 
 I’ve also learned a lot about risk management, game selection, and staying mentally sharp over long sessions. I have found that the kind of discipline and edge awareness translates well into systematic trading, strategy design, and the mentality of what a winning strategy means in the long run.
 
+Without giving away everything, here is some insight in to how poker has been going.
+
 ![BB/hour Tracker](/images/poker_results.jpg)
