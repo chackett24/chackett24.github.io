@@ -3,7 +3,7 @@ layout: default
 title: MIT Lincoln Laboratory
 ---
 
-#MIT Lincoln Laboratory
+# MIT Lincoln Laboratory
 
 At MIT Lincoln Laboratory, I worked with the Superconducting Qubit team on projects related to quantum computing. My focus was on developing tools to improve how experiments were calibrated, with the goal of reducing the need for manual, human-driven tuning.
 
