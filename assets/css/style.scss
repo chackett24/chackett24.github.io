@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  background-image: url('/assets/images/background.jpeg');
+  background-size: cover;      /* or "contain", or specify dimensions */
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* optional: makes it stay in place */
+  background-position: center center;
+}
