@@ -9,7 +9,7 @@ I play $1/$2 live cash at Wind Creek, where I’ve been steadily building my gam
 
 Poker has been a great way to sharpen how I think about expected value and making decisions under pressure with incomplete information. Every hand is about finding edges, weighing probabilities, and making +EV decisions that pay off in the long run.
 
-![Live Poker Table](/images/live_poker_table.png)
+![Live Poker Table](/images/stack.jpg)
 
 It reminds me a lot of what I enjoy in quant work: developing a +EV strategy, analyzing your assumptions about the table of players you’re at, and trusting your process over the outcome of any single hand or trade. It’s not about playing perfectly or winning every hand, it’s about consistently capitalizing on weaknesses in how others play.
 
