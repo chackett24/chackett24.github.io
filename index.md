@@ -30,22 +30,28 @@ Developed tools for qubit calibration and process automation, contributing to sc
 _**[Natural language processing 10-Ks](report)**_  
 Applied the Loughran-McDonald sentiment lexicon to 10-K filings for predictive modeling of stock performance based on tone and keyword frequency.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/10k.png?raw=true"/>
 
 ---
 
 _**[CHRONOPAIRS](https://chronopairs.streamlit.app/)**_  
 A live demo of pairs trading powered by CHRONOBERT, a transformer-based time series forecasting model designed to identify high-confidence trade entries.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pairs.png?raw=true"/>
 
 ---
 
 _**[Passive Portfolio / Index Creation](portfolio)**_  
 Designed systematic strategies to track market indices using diverse portfolio construction methods, incorporating rolling partition out-of-sample testing to validate performance across time.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/port.png?raw=true"/>
 
+---
+
+_**[Catan Strategy via Data Mining](catan)**_  
+Used IBM SPSS Modeler to apply classification and modeling techniques on gameplay data from *Settlers of Catan*, uncovering distinct early-game and mid-to-late game strategies linked to higher win probabilities.
+
+<img src="images/catan.png?raw=true"/>
 
 ## Career Objectives
 
