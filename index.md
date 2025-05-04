@@ -13,33 +13,38 @@ Hi, I’m Casey Hackett. I’m a problem solver with a strong interest in financ
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Volos Options Backtesting](volos)**_
-
+_**[Volos Options Backtesting](volos)**_  
+Focused on extracting actionable insights from large-scale options data and automating key processes to streamline systematic strategy development.
 
 <img src="images/volos.jpg?raw=true"/>
 
 ---
 
-_**[MIT Quantum Computing Optimization](quantum)**_
-
+_**[MIT Quantum Computing Optimization](quantum)**_  
+Developed tools for qubit calibration and process automation, contributing to scalable optimization workflows in quantum computing research.
 
 <img src="images/qubit.jpg?raw=true"/>
 
 ---
 
-_**[Natural language processing 10-Ks to identify risks](report)**_
+_**[Natural language processing 10-Ks](report)**_  
+Applied the Loughran-McDonald sentiment lexicon to 10-K filings for predictive modeling of stock performance based on tone and keyword frequency.
 
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+_**[CHRONOPAIRS](https://chronopairs.streamlit.app/)**_  
+A live demo of pairs trading powered by CHRONOBERT, a transformer-based time series forecasting model designed to identify high-confidence trade entries.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-
-_**[Eventual team project](https://chronopairs.streamlit.app/)**_
+_**[Passive Portfolio / Index Creation](portfolio)**_  
+Designed systematic strategies to track market indices using diverse portfolio construction methods, incorporating rolling partition out-of-sample testing to validate performance across time.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 
 ## Career Objectives
