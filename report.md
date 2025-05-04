@@ -3,7 +3,7 @@ layout: wide_default
 ---    
 
 
-# 1 Overview
+# Overview
 
 # Abstract
 
@@ -447,7 +447,3 @@ For ML negative sentiment, the correlation with ret is positive (0.0249), and it
 
 This pattern shows that ML positive and negative sentiment are linked to different dynamics in short and long-term returns, with positive sentiment creating short-term optimism but long-term correction, while negative sentiment may present buying opportunities due to potential undervaluation and market trends.
 
-
-```python
-
-```
