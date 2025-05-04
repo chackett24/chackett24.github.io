@@ -1,3 +1,8 @@
+---
+layout: wide_default
+---    
+
+
 ```python
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
