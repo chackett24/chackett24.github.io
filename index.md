@@ -4,7 +4,7 @@ Hi, I’m Casey Hackett. I’m a problem solver with a strong interest in financ
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/chackett24/chackett24.github.io/raw/master/images/headshot.JPG" width="50%">
+  <img class="img-circle" src="https://github.com/chackett24/chackett24.github.io/raw/master/images/header.png" width="80%">
 </p>
 
 ---
