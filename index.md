@@ -4,7 +4,7 @@ Hi, I’m Casey Hackett. I’m a problem solver with a strong interest in financ
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/chackett24/chackett24.github.io/raw/master/images/header.png" width="80%">
+  <img class="img-circle" src="https://github.com/chackett24/chackett24.github.io/raw/master/images/header.png" width="100%">
 </p>
 
 ---
@@ -29,14 +29,13 @@ _**[MIT Quantum Computing Optimization](quantum)**_
 
 _**[Natural language processing 10-Ks to identify risks](report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 
-_**[Eventual team project](chronopairs.streamlit.app)**_
+_**[Eventual team project](https://chronopairs.streamlit.app/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
