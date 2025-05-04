@@ -1,51 +1,29 @@
-## Developer Portfolio Landing Page Template
+# Casey Hackett's Personal Website
 
-### Introduction
+Welcome to my personal website. Here you can find information about my background, research projects, and hobbies. I am passionate about solving complex problems using quantitative methods, finance, and technology.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## About Me
 
-<img src="images/demo.gif?raw=true"/>
+Hi, I’m Casey Hackett. I’m a problem solver with a strong interest in finance, technology, and automation. I’m currently studying at Lehigh University, where I focus on quantitative methods, systematic trading, and large-scale data analysis.
 
-### Installation
+## Projects
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+I am actively involved in a number of research and practical projects, including:
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+- **CHRONOBERT Time Series Forecasting for Pairs Trading**: Enhancing trading strategies using CHRONOBERT forecasting techniques.
+- **Systematic Trading Strategies**: Designing and optimizing systematic trading strategies for financial markets.
+- **Poker**: Exploring my interest in poker, analyzing hands, and improving my skills for live play.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Get in Touch
 
-### Markdown
+Feel free to explore my website to learn more about my work, research, and hobbies. If you'd like to connect or learn more about any of my projects, you can reach me via:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [LinkedIn](https://www.linkedin.com/in/casey-hackett-71b2ba1b8/)
+- [GitHub](https://github.com/chackett24)
+- Email: [caseyhackett01@gmail.com](mailto:caseyhackett01@gmail.com)
 
-```markdown
-Syntax highlighted code block
+Thank you for visiting.
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+> Note: This website is built using [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages.
