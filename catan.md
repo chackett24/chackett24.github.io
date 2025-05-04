@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MIT Lincoln Laboratory
+title: Catan Modeling
 ---
 
 # Catan Strategy Discovery via Data Mining
