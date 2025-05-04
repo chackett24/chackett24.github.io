@@ -5,7 +5,7 @@ title: Catan Modeling
 
 # Catan Strategy Discovery via Data Mining
 
-[Download the full report](pdf/Catan_Strategy_Report.pdf)
+[Download the full report](pdf/Catan_Report.pdf)
 
 _**Project Overview**_  
 This project leverages IBM SPSS Modeler to explore winning strategies in the board game *Settlers of Catan*. By applying classification algorithms to historical gameplay data, I identified key patterns that distinguish successful early-game and mid-to-late game decision-making.
