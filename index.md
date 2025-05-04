@@ -23,7 +23,7 @@ _**[Volos Options Backtesting](volos)**_
 _**[MIT Quantum Computing Optimization](quantum)**_
 
 
-<img src="images/quantum.jpg?raw=true"/>
+<img src="images/qubit.jpg?raw=true"/>
 
 ---
 
