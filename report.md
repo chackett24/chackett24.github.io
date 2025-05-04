@@ -3,17 +3,7 @@ layout: wide_default
 ---    
 
 
-```python
-import matplotlib.image as mpimg
-import matplotlib.pyplot as plt
-corrheat = mpimg.imread("output/correlation_heatmap.png")
-scatters = mpimg.imread("output/scatters.png")
-firstfour = mpimg.imread("output/firstfour.png")
-sentiment = mpimg.imread("output/sentiment.png")
-returnheat = mpimg.imread("output/returnheat.png")
-```
-
-1 Overview
+# 1 Overview
 
 # Abstract
 
@@ -359,7 +349,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](images/output_13_0.png)
     
 
 
