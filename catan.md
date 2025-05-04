@@ -22,7 +22,7 @@ _**Key Findings**_
 - **Early-Game Strategy**: Winning players tend to maximize starting resource pips and prioritize ore/wheat/sheep access to enable early development card purchases.
 - **Mid-to-Late Game Strategy**: Adaptive play is critical, strategies like pursuing Largest Army or pivoting to Longest Road are decisive depending on the game context.
 
-![CHAID Tree](images/catan_chaid_tree.png)  
+![CHAID Tree](images/chaid_graph.png)  
 *CHAID decision tree showing key features that separate winning and non-winning strategies.*
 
 _**Tools Used**_
@@ -40,5 +40,5 @@ Future iterations of this project will:
 
 ---
 
-![Stream Diagram](images/catan_stream.png)  
+![Stream Diagram](images/Stream.png)  
 *SPSS Modeler stream used to process game data and run classification models.*
