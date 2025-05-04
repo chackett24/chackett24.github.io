@@ -1,7 +1,6 @@
 ## About Me
 
-Hey, I’m Casey Hackett, a problem solver with a passion for finance, technology, and automation. Currently, I’m a student at Lehigh, diving deep into quantitative methods, systematic trading, and large-scale data analysis.
-
+Hi, I’m Casey Hackett. I’m a problem solver with a strong interest in finance, technology, and automation. I’m currently studying at Lehigh University, where I focus on quantitative methods, systematic trading, and large-scale data analysis.
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
