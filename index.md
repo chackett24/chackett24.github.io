@@ -30,7 +30,7 @@ Developed tools for qubit calibration and process automation, contributing to sc
 _**[Natural language processing 10-Ks](report)**_  
 Applied the Loughran-McDonald sentiment lexicon to 10-K filings for predictive modeling of stock performance based on tone and keyword frequency.
 
-<img src="images/10k.png?raw=true"/>
+<img src="images/output_12_0.png?raw=true"/>
 
 ---
 
