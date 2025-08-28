@@ -1,39 +1,36 @@
 ---
 layout: default
-title: Phillies CV Proposal
+title: Welcome Phillies Hiring Team
 ---
 
-# Computer Vision for Defensive Evaluation in Baseball
+# Welcome Phillies Hiring Team  
 
+Thank you for taking the time to visit this page.  
+Here, I’ve collected materials related to the **“Best Defensive First Baseman” question from the Associate application**, showing how I would approach the problem using **computer vision (CV)** and how my background equips me to contribute in this space.  
+
+---
+
+## Project Proposal  
 [Download Proposal (PDF)](pdf/Phillies_CV_Proposal.pdf)  
-[Download Project Outline (PDF)](pdf/Phillies_CV_Outline.pdf)
 
-_**Project Overview**_  
-This project explores how **computer vision (CV) techniques can be integrated with traditional baseball analytics models** to improve the evaluation of defensive performance, with an initial focus on the first baseman position.  
+The proposal introduces how CV techniques such as pose estimation, ball tracking, and player movement analysis can generate new features to evaluate defensive performance. Specifically, I focus on the first baseman position, outlining how signals from videos could complement existing defensive metrics and improve predictive modeling in baseball analytics.  
 
-The goal is to design a pipeline that extracts **pose estimation and ball-tracking signals** from broadcast video, transforms them into quantitative features, and tests their predictive value when combined with standard play-level defensive metrics.  
+---
 
-The proposal and outline provide:
-- A **motivation** for applying CV to defensive evaluation.  
-- A description of the **CV tools and methods** (YOLOv8, DeepSORT, pose estimation).  
-- Plans for a **feature extraction pipeline** linking CV outputs with play-level datasets.  
-- A **research roadmap** for scaling CV-derived features into predictive modeling workflows used by baseball analysts.  
+## Project Outline  
+[Download Project Outline (PDF)](pdf/Phillies_CV_Outline.pdf)  
 
-![CV Pipeline Concept](images/cv_pipeline.png)  
-*Conceptual diagram of pose estimation and ball-tracking feeding into defensive evaluation models.*  
+The outline breaks the proposal into a step-by-step workflow. It draws on methods from prior academic projects (particularly my Statistical Machine Learning coursework) and personal CV experiments. I’ve adapted these workflows to for thie exact problem, emphasizing reproducibility, scalability, and integration with existing analytics pipelines.  
 
-_**Tools & Techniques**_
-- YOLOv8 for object detection  
-- DeepSORT for player and ball tracking  
-- Pose estimation models for body mechanics  
-- Feature engineering for integrating CV signals with play-level data  
+---
 
-## Next Steps
+![Bryce Harper Catch](images/harper_catch.png)  
+*Good video footage was hard to find. Enjoy one of the few clips I could make super early on in this project.*  
 
-Future work will:  
-- Expand testing across multiple defensive positions.  
-- Benchmark predictive improvements against models using only non-CV data.  
-- Explore scaling the system to real-time applications for scouting and player development.  
-- Extend the framework to measure defensive decision-making and reaction times.  
+---
+
+## Closing Note  
+
+I’m excited by the opportunity to apply my quantitative background, computer vision experience, and passion for strategic gameplay to meaningful projects with the Phillies. I would love to help push the boundaries of how video data can shape player evaluation and development.  
 
 ---
