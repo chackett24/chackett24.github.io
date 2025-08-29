@@ -24,10 +24,6 @@ The outline breaks the proposal into a step-by-step workflow. It draws on method
 
 ---
 
-![Bryce Harper Catch](images/harper_catch.png)  
-*Good video footage was hard to find. Enjoy one of the few clips I could make super early on in this project.*  
-
----
 
 ## Closing Note  
 
