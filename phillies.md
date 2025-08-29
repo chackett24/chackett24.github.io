@@ -3,10 +3,10 @@ layout: default
 title: Welcome Phillies Hiring Team
 ---
 
-# Welcome Phillies Hiring Team  
+# Hey Phillies
 
 Thank you for taking the time to visit this page.  
-Here, I’ve collected materials related to the **“Best Defensive First Baseman” question from the Associate application**, showing how I would approach the problem using **computer vision (CV)** and how my background equips me to contribute in this space.  
+Here, I’ve collected materials related to the “Best Defensive First Baseman” question from the Associate application, showing how I would approach the problem using computer vision (CV).  
 
 ---
 
